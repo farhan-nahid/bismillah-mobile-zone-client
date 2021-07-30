@@ -1,44 +1,47 @@
-## [Tech Solution](https://tech-support-farhan.web.app)
+### [Tech Solution](https://tech-support-farhan.web.app)
 
- -> about this site
+### 
+<img src="https://i.ibb.co/jZjmnkL/Tech-Solution.png" />
 
-- It is a electronic devices service center website
-- User can take any service
-- User can see his order in order section
-- User can review this site
-- User and Admin can log in this website using google account
-- Admin can add more services
-- Admin can add more admin
-- Admin can delete services
-- Admin can see all order
-- Admin can change the order condition
-- Website has a our work slider(Added as bonus section)
-- Navbar(when a user & admin Login in this website he see his photoURL in navbar. When he Click this photo he see his photoURL, name, email & logout button)
-- Responsive
+### About this site
+
+- [x] It is a electronic devices service center website
+- [x] User can take any service
+- [x] User can see his order in order section
+- [x] User can review this site
+- [x] User and Admin can log in this website using google account
+- [x] Admin can add more services
+- [x] Admin can add more admin
+- [x] Admin can delete services
+- [x] Admin can see all order
+- [x] Admin can change the order condition
+- [x] Website has a our work slider(Added as bonus section)
+- [x] Navbar(when a user & admin Login in this website he see his photoURL in navbar. When he Click this photo he see his photoURL, name, email & logout button)
+- [x] Responsive
 
 ### Front-end Technology:
 
-- HTML5
-- CSS3
-- Bootstrap5
-- React Bootstrap
-- React JS
-- React-hook-form
-- React-router-dom
-- Firebase-Authentication
+- [x] HTML5
+- [x] CSS3
+- [x] Bootstrap5
+- [x] React Bootstrap
+- [x] React JS
+- [x] React-hook-form
+- [x] React-router-dom
+- [x] Firebase-Authentication
 
 ### Back-end Technology:
 
-- Node JS
-- Express JS
-- MongoDB
+- [x] Node JS
+- [x] Express JS
+- [x] MongoDB
 
 ### Tools:
 
-- dotenv
-- git
-- github
+- [x] dotenv
+- [x] Git
+- [x] Github
 
 
 
-You can see server side code in [Tech-Solution-Server](https://github.com/Porgramming-Hero-web-course/complete-website-server-farhan-nahid)
+You can see server side code in [Tech-Solution-Server](https://github.com/farhan-nahid/tech-solution-server)
